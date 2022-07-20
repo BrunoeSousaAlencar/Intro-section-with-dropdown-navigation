@@ -25,6 +25,14 @@ header{
     line-height: 30px;
 }
 
+.feature-modal{
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.356);
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+    position:fixed;
+}
+
 .conta{
     display: flex;
     margin-top: 20px;
